@@ -1,5 +1,6 @@
-#test
-*.text
+# test -> 이 줄은 무시
+# 파일명은 상관 없고, 확장자가 text면 관리X
+*.test
 
 # History files
 .Rhistory
